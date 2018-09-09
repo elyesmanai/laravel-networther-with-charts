@@ -1,0 +1,6 @@
+[
+    {"name":"pfe freelance","reward":"300","hours":"200","type":"Development","kind":"part-time"},
+    {"name":"gmc summer","reward":"300","hours":"180","type":"teaching","kind":"full-time"},
+    {"name":" part time 1","reward":"500","hours":"48","type":"teaching","kind":"part-time"},
+    {"name":" part time 2","reward":"500","hours":"48","type":"teaching","kind":"part-time"}
+]
